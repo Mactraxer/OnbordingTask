@@ -1,0 +1,22 @@
+{
+    "name": "InfrastructureAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:021308ef2d345554bac66c90f52ec1d5",
+        "GUID:e21545be2a684e74c94adf18e52af01d",
+        "GUID:5b7c27035d8b95d469f873953369ff7c",
+        "GUID:019290872826ef44ab2e752e6406bba1",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:08b38f39e2d9e594389b7a4cf4c2c338",
+        "GUID:4f682e06dbb3e624faedad9cc27106cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

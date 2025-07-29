@@ -1,0 +1,16 @@
+{
+    "name": "ContractsInterfacesAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e21545be2a684e74c94adf18e52af01d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

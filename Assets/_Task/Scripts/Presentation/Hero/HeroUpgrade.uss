@@ -1,0 +1,28 @@
+.panel {
+}
+
+.unity-button {
+}
+
+.upgrade-title {
+    -unity-text-align: middle-center;
+    font-size: 80px;
+    -unity-font-style: bold;
+    width: 400px;
+    height: 200px;
+    align-self: center;
+}
+
+.upgrade-button {
+    width: 500px;
+    height: 200px;
+    align-self: center;
+    font-size: 50px;
+    -unity-font-style: bold;
+    -unity-text-align: middle-center;
+}
+
+.upgrade-value {
+    font-size: 60px;
+    -unity-text-align: middle-center;
+}

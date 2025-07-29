@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/_Task/Scripts/Presentation/Hero/HeroUpgrade.uss?fileID=7433441132597879392&amp;guid=988a2cf9372a8d042a7cf3d28deb3f5a&amp;type=3#HeroUpgrade" />
+    <ui:VisualElement class="panel" style="flex-grow: 1;">
+        <ui:Label text="Health" name="TitleHealthLabel" class="upgrade-title" style="-unity-text-align: middle-center; -unity-font-style: bold; font-size: 80%; -unity-text-outline-width: 0; -unity-text-outline-color: rgb(255, 255, 255); align-content: flex-start; top: 0; width: 400px; height: 200px; align-self: center;" />
+        <ui:Label text="0" name="ValueHealthLabel" class="upgrade-value" style="-unity-text-align: upper-center;" />
+        <ui:Label text="Attack" name="TitleAttackLabel" class="upgrade-title" />
+        <ui:Label text="0" name="ValueAttackLabel" class="upgrade-value" style="-unity-text-align: upper-center;" />
+        <ui:Button text="Upgrade Health" name="UpgradeHealthButton" class="upgrade-button" style="left: auto; right: auto; width: 20%; align-self: center; bottom: 300px; position: absolute; align-content: stretch; -unity-text-align: middle-center; justify-content: flex-start;" />
+        <ui:Button text="Upgrade Attack" name="UpgradeAttackButton" class="upgrade-button" style="width: 20%; align-self: center; bottom: 50px; position: absolute;" />
+    </ui:VisualElement>
+</ui:UXML>
